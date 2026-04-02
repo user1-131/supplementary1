@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9fdd7c39-8b63-49a2-b20d-61d6bead78b8" width="50%" alt="图片9" />
+  <img src="https://github.com/user-attachments/assets/9fdd7c39-8b63-49a2-b20d-61d6bead78b8" width="75%" alt="图片9" />
 </p>
